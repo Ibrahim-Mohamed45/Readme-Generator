@@ -26,27 +26,27 @@ const questions = [
           message: 'Write a description of your project',
       },
       {
-          type: 'input',
+          type: 'editor',
           name: 'installation',
           message: 'Enter installation instructions',
       },
       {
-          type: 'input',
+          type: 'editor',
           name: 'usage',
           message: 'Enter information on how to use and examples',
       },
       {
-          type: 'input',
+          type: 'editor',
           name: 'tests',
           message: 'Write tests for your application and examples on how to run them',
       },
       {
-          type: 'input',
+          type: 'editor',
           name: 'contributing',
           message: 'Enter guidelines for others to contribute to your project',
       },
       {
-          type: 'input',
+          type: 'editor',
           name: 'credits',
           message: 'List collaborators (gitHub profile links) and any resources or assets that need attributtion',
       },
