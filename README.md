@@ -24,6 +24,9 @@ The application is invoked by entering the following command on your terminal:
 node index.js
 ```
 
+<img src="assets\Readme-generator-pic.png" alt="Image of what the CLI should look like.">
+Sample video: <a href="https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view" target="_blank"> https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view</a>
+
 ## Tests
 You can install a package with functional testing for inquirer.js:
 ```
@@ -36,8 +39,8 @@ Contact me if you have any questions!
 - Check out my GitHub profile [Ibrahim-Mohamed45](https://github.com/Ibrahim-Mohamed45)
 
 ## Credits
-Inquirer.js
-Shields.io
+- Inquirer.js
+- Shields.io
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
