@@ -39,8 +39,8 @@ Contact me if you have any questions!
 - Check out my GitHub profile [Ibrahim-Mohamed45](https://github.com/Ibrahim-Mohamed45)
 
 ## Credits
-- Inquirer.js
-- Shields.io
+- <a href="https://www.npmjs.com/package/inquirer" target="_blank"> Inquirer.js</a>
+- <a href="https://shields.io/" target="_blank"> Shields.io</a>
 
 ## Contributing
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
