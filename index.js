@@ -42,7 +42,7 @@ const questions = [
       {
           type: 'editor',
           name: 'tests',
-          message: 'Write tests for your application and examples on how to run them',
+          message: 'Write tests for your application and examples on how to run them. If you have no tests, enter N/A',
       },
       {
           type: 'editor',
@@ -52,7 +52,7 @@ const questions = [
       {
           type: 'editor',
           name: 'credits',
-          message: 'List collaborators (gitHub profile links) and any resources or assets that need attributtion',
+          message: 'List collaborators (gitHub profile links) and any resources or assets that need attributtion. If you have no credits, enter N/A',
       },
       {
           type: 'list',
