@@ -2,6 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./generateMarkdown");
 const filename = 'README.md';
+const emailValidator = require("email-validator");
 
 // array of questions for user
 const questions = [
@@ -13,7 +14,10 @@ const questions = [
       {
           type: 'input',
           name: 'email',
-          message: 'Enter your email address',   
+          message: 'Enter your email address',
+          validate: (input) => {
+           return emailValidator.validate(input) ? true : 'Please enter a valid email address';
+          }       
       },
       {
           type: 'input',
