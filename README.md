@@ -25,7 +25,7 @@ node index.js
 ```
 
 <img src="assets\Readme-generator-pic.png" alt="Image of what the CLI should look like.">
-Sample video: <a href="https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view" target="_blank"> https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view</a>
+Walkthrough video: <a href="https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view" target="_blank"> https://drive.google.com/file/d/19Wz4Sk0l7dRfGaGpjTcLrh7LMewyJieq/view</a>
 
 ## Tests
 You can install a package with functional testing for inquirer.js:
